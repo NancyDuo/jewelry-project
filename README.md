@@ -1,3 +1,3 @@
 # jewelry
-unfinished version
-i am still working on it.
+
+I am still working on it.
